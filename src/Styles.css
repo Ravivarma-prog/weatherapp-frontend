@@ -1,0 +1,26 @@
+.header-style{
+    margin : 10px 0px 0px 0px;
+    color: #ffff;
+    padding: 5px auto;
+    letter-spacing: 2px;
+    font-size: 36px;
+    font-family:'Lucida Sans';
+}
+
+.header-caption-style{
+    color: #ffff;
+    font-family:'Lucida Sans';
+    font-size: 18px;
+}
+
+.search-bar-style{
+    position: relative;
+    left : 50%;
+    transform: translateX(-50%);
+    border : 0px solid black;
+    border-radius : 10px;
+    width : 210px;
+    height: 35px;
+    margin: 30px 0px 10px 0px;
+    font-size: 17px;
+}
